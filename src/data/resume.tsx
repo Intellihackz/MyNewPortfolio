@@ -3,16 +3,16 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
   name: "Oluwatobiloba Ajiboye",
-  initials: "DV",
-  url: "https://dillion.io",
-  location: "San Francisco, CA",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  initials: "OA",
+  url: "https://techwithtobi.vercel.app",
+  location: "Lagos,NG",
+  locationLink: "https://www.google.com/maps/lagos",
   description:
     "Full time student, part time software engineer. I love building cool projects.",
   summary:
     "Hey there! 👋 Started coding with **Python** in **2019** at age **_12_**. Fell in love with **_web development_** and now work as a **_part time software engineer_** building cool projects. When I'm not coding for work, I'm working on my own products! 🚀",
   avatarUrl: "/me.jpg",
-  skills: ["React", "Next.js", "Typescript", "Node.js", "Python", "Postgres","MongoDB","Solidity"],
+  skills: ["React", "Next.js", "Typescript", "Node.js", "Python", "Postgres","MongoDB","Solidity","Golang" ,"Flutter"],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
